@@ -1,0 +1,88 @@
+body { 
+    display: grid;
+    justify-content: center;
+    background-color: #adaba2;
+    color: rgb(0, 0, 0);
+}
+
+.post_container {
+    height: 700px;
+    width: 400px;
+    margin-top: 100px;
+    display: grid;
+    justify-content: center;
+    background-color: #ffffff; 
+}
+
+.user_info {
+    height: 100px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+}
+
+.profile {
+    margin: 10px;
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+}
+
+.username {
+    height: 100px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.go_to_profile_c {
+    height: 100px;
+    width: 100px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.go_to_profile {
+    height: 40px;
+    width: 100px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 18px;
+    background-color : rgb(0, 255, 115);
+    color: #f700ff;
+}
+
+.image {
+    height: 400px;
+    width: 400px;
+}
+
+.caption {
+    height: 100px;
+    width: 400px;
+}
+
+header {
+    height: 200px;
+    width: 100%;
+    background-color: #4b4b4b;  
+    color: #ffffff;
+}
+
+.back {
+    height: 40px;
+    width: 100px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 18px;
+    background-color : rgb(0, 255, 115);
+    color: #f700ff;
+}
+
